@@ -1,0 +1,17 @@
+h1{
+	font-size: 125%;
+}
+.score{
+	font-size: 80%;
+	border:1px solid silver;
+	width: 53px;
+	height: 50px;
+}
+#total{
+	border:1px solid black;
+	font-size: 105%;
+	padding:5px;
+}
+#totalscore{
+	text-align: center;
+}
